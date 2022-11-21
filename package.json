@@ -22,7 +22,7 @@
     "eject": "react-scripts eject",
     "cypress": "cypress open",
     "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "deploy" : "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -45,7 +45,6 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "devDependencies": {
-    "cypress": "^11.1.0",
     "gh-pages": "^4.0.0"
   },
   "keywords": [],

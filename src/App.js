@@ -11,10 +11,10 @@ function App() {
 
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/github-profil-stats-saerch'>
       <div className="App">
         <Routes>
-          <Route path='/' element={<Search></Search>}></Route>
+          <Route path='/github-profil-stats-saerch' element={<Search></Search>}></Route>
           <Route path='/users/:log' element={<Users></Users>}></Route>
         </Routes>
       </div>
