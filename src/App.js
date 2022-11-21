@@ -14,7 +14,7 @@ function App() {
     <BrowserRouter basename='/github-profil-stats-saerch'>
       <div className="App">
         <Routes>
-          <Route exact path='/github-profil-stats-saerch' element={<Search></Search>}></Route>
+          <Route exact path='/' element={<Search></Search>}></Route>
           <Route path='/users/:log' element={<Users></Users>}></Route>
         </Routes>
       </div>
