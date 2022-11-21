@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/github-profil-stats-saerch/static/css/main.2080e209.css",
-    "main.js": "/github-profil-stats-saerch/static/js/main.842d83fd.js",
+    "main.js": "/github-profil-stats-saerch/static/js/main.123b2647.js",
     "static/js/787.1315a2c5.chunk.js": "/github-profil-stats-saerch/static/js/787.1315a2c5.chunk.js",
     "static/media/PPFuji-Light.woff2": "/github-profil-stats-saerch/static/media/PPFuji-Light.6397e0563c926c0b40be.woff2",
     "static/media/PPFuji-Regular.woff2": "/github-profil-stats-saerch/static/media/PPFuji-Regular.ad442b07c2cf82b33b20.woff2",
     "static/media/PPFuji-Bold.woff2": "/github-profil-stats-saerch/static/media/PPFuji-Bold.f53aadd238408958d771.woff2",
     "index.html": "/github-profil-stats-saerch/index.html",
     "main.2080e209.css.map": "/github-profil-stats-saerch/static/css/main.2080e209.css.map",
-    "main.842d83fd.js.map": "/github-profil-stats-saerch/static/js/main.842d83fd.js.map",
+    "main.123b2647.js.map": "/github-profil-stats-saerch/static/js/main.123b2647.js.map",
     "787.1315a2c5.chunk.js.map": "/github-profil-stats-saerch/static/js/787.1315a2c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2080e209.css",
-    "static/js/main.842d83fd.js"
+    "static/js/main.123b2647.js"
   ]
 }
